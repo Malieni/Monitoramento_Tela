@@ -1,0 +1,45 @@
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe.config
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\bin\Debug\Monitor Tecnico.pdb
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.AssemblyReference.cache
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Form1.resources
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Properties.Resources.resources
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.GenerateResource.cache
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.CoreCompileInputs.cache
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.exe
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe.config
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\bin\Debug\Monitor Tecnico.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.AssemblyReference.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Form1.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Properties.Resources.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.GenerateResource.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.CoreCompileInputs.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto\Monitor Tecnico\obj\Debug\Monitor Tecnico.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe.config
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.AssemblyReference.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Form1.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Properties.Resources.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.GenerateResource.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.CoreCompileInputs.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe.config
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe.manifest
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.application
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\bin\Debug\Monitor Tecnico.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.AssemblyReference.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Form1.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor_Tecnico.Properties.Resources.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.GenerateResource.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.csproj.CoreCompileInputs.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.exe.manifest
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.application
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Tecnico\obj\Debug\Monitor Tecnico.exe.config

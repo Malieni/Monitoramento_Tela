@@ -1,0 +1,35 @@
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\bin\Debug\Monitor Remoto.exe.config
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\bin\Debug\Monitor Remoto.exe
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\bin\Debug\Monitor Remoto.pdb
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.AssemblyReference.cache
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\obj\Debug\Monitor_Remoto.Form1.resources
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\obj\Debug\Monitor_Remoto.Properties.Resources.resources
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.GenerateResource.cache
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.CoreCompileInputs.cache
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\obj\Debug\Monitor Remoto.exe
+C:\Users\rubens.grazzini\Desktop\Monitor Remoto\Monitor Remoto\obj\Debug\Monitor Remoto.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.exe.config
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.AssemblyReference.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor_Remoto.Form1.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor_Remoto.Properties.Resources.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.GenerateResource.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.CoreCompileInputs.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.exe.config
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.exe.manifest
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.application
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\bin\Debug\Monitor Remoto.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.AssemblyReference.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor_Remoto.Form1.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor_Remoto.Properties.Resources.resources
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.GenerateResource.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.csproj.CoreCompileInputs.cache
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.exe.manifest
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.application
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.exe
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.pdb
+\\192.168.2.13\Desenvolvimento\_Fontes_Produção\_Backup_Guilherme\_Monitoramento\_Monitor_Remoto_ajustado\Monitor Remoto\obj\Debug\Monitor Remoto.exe.config
